@@ -1,0 +1,115 @@
+.container {
+    border: 3px solid black;
+    width: 1000px;
+    margin: 0 auto;
+    background: green;
+}
+.m1 img{
+	width: 150px;
+	height: 150px;
+}
+.m1{
+	margin-left: 27px;
+}
+.logo {
+    border: 1px solid red;
+    width: 20%;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+}
+.nav {
+    border: 1px solid red;
+    width: 65%;
+    margin: 20px 20px 0 0;
+    padding: 20px;
+    float: right;
+    display: inline-block;
+}
+.img{
+	float: left;
+	width: 250px;
+}
+.undo {
+    /* margin-left: -169px; */
+    display: inline-block;
+    /* padding: 13px; */
+}
+.aboutme {
+    /* float: right; */
+    margin-left: 160px;
+    font-size: 23px;
+}
+.about h2{
+	text-align:left;
+
+}
+.testemonial img {
+    float: left;
+    width: 200px;
+    height: 150px;
+    padding: 23px;
+}
+.testemonial h2 {
+    margin-top: -130px;
+    text-align: center;
+}
+.Portfollio {
+    width: 930px;
+    margin-left: -96px;
+}
+.banner {
+    border: 1px solid red;
+    margin: 20px;
+    padding: 200px;
+    margin-top: 0;
+}
+.about {
+    border: 1px solid red;
+    margin: 20px;
+    padding: 90px;
+    margin-top: 0;
+}
+.service {
+    border: 1px solid red;
+    margin: 20px;
+    margin-top: 0;
+    overflow: hidden;
+}
+.services {
+    border: 1px solid red;
+    width: 22%;
+    height: 200px;
+    float: left;
+    margin: 50px 13px;
+}
+.service h2 {
+    text-align: center;
+}
+.testemonial {
+    border: 1px solid red;
+    margin: 20px;
+    padding: 200px;
+    margin-top: 0;
+}
+.contact {
+    border: 1px solid red;
+    margin: 20px;
+    padding: 90px;
+    margin-top: 0;
+}
+.contact h2{
+	text-align: center;
+}
+.address a{
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding: 10px;
+}
+.footer {
+    border: 1px solid red;
+    margin: 20px;
+    padding: 15px;
+    margin-top: 0;
+}
